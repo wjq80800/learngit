@@ -23,4 +23,4 @@ svn,常用功能，git
 是否有看英文文档习惯
 
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes for file.
