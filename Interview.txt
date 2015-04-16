@@ -1,0 +1,23 @@
+网络编程，http、socket（创建过程，心跳包）,用过什么联网框架，如何处理缓存，
+json、xml解析
+如何自定义View
+ListView优化，分页机制，下拉刷新，图片缓存（如何实现）
+数据库，基本sql语法、orm框架
+广播，类型，如何中断/取消 orderBroadcast,
+stickyBroadcast
+Activity,Fragment什么情况下会被回收，如何保留现场
+Handler机制
+ArrayList、LinkedList区别，实现机制，适用情况
+Android中的mvc
+---------------------------
+
+如何混淆代码（混淆规则）
+svn,常用功能，git
+常用 IDE，Eclipse、IDEA、AndroidStudio，Gradle
+---------------------------
+
+如何翻墙
+常用设计模式
+碰到难题如何解决
+是否有维护个人业余项目
+是否有看英文文档习惯
